@@ -1,2 +1,2 @@
-# Conv2DeepSleepNet
-2DConvluton layer based DeepSleepNet
+# Conv1DeepSleepNet
+1DConvluton layer based DeepSleepNet
